@@ -1,3 +1,9 @@
+/*
+
+Contains the HTML for the footer section of the website, including the closing </body> and </html> tags.
+
+*/
+
 <html>
 <body>
 <div>

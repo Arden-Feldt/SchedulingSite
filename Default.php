@@ -1,3 +1,5 @@
+//  The main entry point of the website. It includes the header and footer files and the main content of the homepage.
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -1,3 +1,9 @@
+/*
+
+Contains the HTML for the header section of the website, including the opening <html>, <head>,
+    and beginning of the <body>. It also includes the navigation bar.
+
+*/
     <!DOCTYPE html>
     <html lang="en">
     <head>
