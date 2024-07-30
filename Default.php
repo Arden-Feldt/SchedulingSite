@@ -1,8 +1,11 @@
-//  The main entry point of the website. It includes the header and footer files and the main content of the homepage.
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+    <!--
+      -- The main entry point of the website. It includes the header and footer files and the main content of the homepage.
+      -->
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include 'includes/header.php'; ?>

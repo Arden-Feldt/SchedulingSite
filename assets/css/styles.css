@@ -1,6 +1,6 @@
 /* The main stylesheet for the project. Defines styles for various HTML elements and components. */
 
-body {
+.body {
     font-family: Arial, sans-serif;
     background-color: #ffffff;
     color: #333333;
@@ -13,6 +13,7 @@ body {
     color: white;
     padding: 20px;
     text-align: center;
+    font-family: greekFont, serif;
 }
 
 .footer {
@@ -44,4 +45,9 @@ body {
 
 .btn:hover {
     background-color: #4682B4;
+}
+
+@font-face {
+    font-family: greekFont;
+    src: url(https://www.dafont.com/dalek-pinpoint.font) format('font')
 }

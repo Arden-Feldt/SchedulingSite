@@ -1,3 +1,3 @@
-//  Contains the main content for the homepage.
+<!-- Contains the main content for the homepage. -->
 
 <?php
